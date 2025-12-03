@@ -6,7 +6,7 @@ function Work() {
             <div className="max-w-7xl mx-auto px-6">
                 <h1 className="text-5xl font-semibold mb-6">Experience</h1>
                 <Experience 
-                    title="Senior Backend Engineer"
+                    title="Senior Software Engineer"
                     company="Snapsheet" 
                     location="Chicago, IL" 
                     date="June 2020 - Present" 

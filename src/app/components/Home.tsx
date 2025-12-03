@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 function Home() {
-    const fullText = "Senior Full Stack Software Engineer | Cloud-Native Backend & Scalable Web Systems (C#, Python, React, AWS/Azure)";
+    const fullText = "Senior Software Engineer | Cloud-Native Backend & Scalable Web Systems (C#, Python, React, AWS/Azure)";
     const [typed, setTyped] = useState("");
 
     useEffect(() => {

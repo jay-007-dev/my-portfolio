@@ -20,7 +20,7 @@ function Contact() {
               </p>
               <div className="flex justify-start mt-8 max-w-3xl space-x-8">
                 <a
-                  href="https://www.linkedin.com/in/jason-d-b0806638b/"
+                  href="https://www.linkedin.com/in/jason-deleo-b183a6393/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sky-400 hover:underline"
